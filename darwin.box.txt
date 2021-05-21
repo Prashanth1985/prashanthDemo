@@ -1,0 +1,196 @@
+My Review
+ 
+Optimization of current process
+30%
+
+Weightage
+
+Goals / Key Result Areas Description :
+
+I will optimize and implement  in current process improvements like 
+
+IDENTIFY :- identifying opportunity in current process and try to implements same,like acquiring deep knowledge in product by discussion with product manager and  developer code implementation.
+PLAN:-  I will prepare effective plans to  to derive results with maximum efficiency,like preparing test plans and test cases
+EXECUTE  :- i will execute according to plan effectively pattern
+REVIEW:- i will review the process and implementation ,time efficiency,changes & effect on  team 
+Self Review
+Rating
+1234
+4 - Exceeds expectations
+Comment
+Delivered project within expected time
+worked as catalyst between different team
+Ability to work with cross functional team such ERP,API,FE ,app team.
+Manager Review
+Comment
+1. Process following is improved 
+
+2. Inter team communication is improved.
+
+Automation
+20%
+
+Weightage
+
+Goals / Key Result Areas Description :
+
+I will learn automation tool for required platform like site,mobile,android and IOS respectively
+
+
+
+Self Review
+Rating
+1234
+4 - Exceeds expectations
+Comment
+learning selenium tool for features
+Created own Selenese  script on java platform.
+Working towards writing scripts for all platform.
+Manager Review
+Comment
+1. Learning phase should be improved. 
+
+2. Covert learning into writing some test scripts.
+
+Manual Testing
+30%
+
+Weightage
+
+Goals / Key Result Areas Description :
+
+Try to understand product  requirements and implementation procedure  across platform
+
+Prepare & plan effective test cases,to derive efficient result.
+
+Perform regression & performance testing with standard test cases.
+
+
+
+Self Review
+Rating
+1234
+4 - Exceeds expectations
+Comment
+Analyzing and understanding requirement  from PRD
+Prepared positive and negative test case for all features 
+Reported maximum bugs and errors in system.
+Manager Review
+Comment
+1. From last year to this year a lot of improvement is seen.
+
+2. Thought process improved
+
+3. Covering almost test cases to deliver any feature bug free.
+
+Roles and Responsibility
+20%
+
+Weightage
+
+Goals / Key Result Areas Description :
+
+Mutual communication between developer and product manager to achieve complete requirements
+adhere to process and complete task with give TAT Period of time
+End to end testing till feature /product release 
+Self Review
+Rating
+1234
+4 - Exceeds expectations
+Comment
+
+To read & refer PRD and understand requirement 
+Developed test plans and test cases and and prioritized testing activities.
+Executed all the test cases and reported defects, defined severity and priority for each defect.
+Carry out regression testing every time when changes are made to the code to fix defects
+Manager Review
+Comment
+1. Taking ownership of the projects assigned
+
+2. Taking case of the deadlines
+
+3. Taking all the effort to deliver the project with all the scenarios covered. 
+
+Review - Competencies
+Action Orientation
+Behavioral Indicators
+
+Bias for action
+
+Self Review
+Rating
+N.A.
+
+Comment
+N.A.
+
+Manager Review
+Comment
+Capable of acting fast on the urgent task given and delivering on scheduled time. 
+
+Collaboration
+Behavioral Indicators
+
+Ability to work collaboratively and with cross-functional teams
+
+Self Review
+Rating
+N.A.
+
+Comment
+N.A.
+
+Manager Review
+Comment
+Cross functional collaboration is improved. It is seen in the projects delivered like gift card reload. Taking to third party venders capabilities are also enhancing.
+
+Growth Orientation
+Behavioral Indicators
+
+Motivation to continuously learn and grow
+
+Self Review
+Rating
+N.A.
+
+Comment
+N.A.
+
+Manager Review
+Comment
+Mindset of learning new things is seen. Have seen the energy and excitement towards the task given. 
+
+Team
+Behavioral Indicators
+
+Coaching and building a team
+
+Self Review
+Rating
+N.A.
+
+Comment
+N.A.
+
+Manager Review
+Comment
+Ability of understanding the task and problems are improving. 
+
+Self Review - Evaluation Form
+Employee Form
+Manager Form
+
+No Form Assigned or No permission to access the form
+Overall self review
+Rating
+1234
+4 - Exceeds expectations
+Comment
+self dedicated ,enthusiastic in work space 
+
+Overall manager review
+Rating
+3
+
+Comment
+Overall a lot of improvement is seen in different streams. Meet all the expectations.
